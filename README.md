@@ -37,3 +37,22 @@ random seed can be changed using :
 To change your realization, you should use:
 - run: SeedManager::SetRun (run);
 - seed: SeedManager::SetSeed (seed); 
+
+Authors
+
+houssem eddin elbsir
+mohamed kassab
+
+
+License
+
+This software is licensed under the terms of the GNU GPLv2 (the same license that is used by ns-3). See the LICENSE.md file for more details.
+
+
+Acknowledgments and relevant publications
+under work 
+some beugs -> network server not complete
+need some adjustment 
+if u run into an erreur please mention it and thank you
+contact me on houssem.bsir.gt@gmail.com
+
