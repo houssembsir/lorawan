@@ -1,5 +1,7 @@
 install ns-3
-apt-get update
+
+
+sudo apt-get update
 
 apt install build-essential autoconf automake libxmu-dev python-pygraphviz cvs mercurial bzr git cmake p7zip-full python-matplotlib python-tk python-dev python-kiwi python-gnome2 qt4-dev-tools qt4-qmake qt4-qmake qt4-default gnuplot-x11 wireshark
 
