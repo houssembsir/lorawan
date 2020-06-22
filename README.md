@@ -51,8 +51,15 @@ This software is licensed under the terms of the GNU GPLv2 (the same license tha
 
 Acknowledgments and relevant publications
 under work 
-some beugs -> network server not complete
+some beugs -> 
+
+network server not complete
+
 need some adjustment 
+
+
 if u run into an erreur please mention it and thank you
+
+
 contact me on houssem.bsir.gt@gmail.com
 
